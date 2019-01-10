@@ -1,0 +1,13 @@
+.pagination{
+    margin: 7px;
+}
+
+.pagination strong{
+    padding: 8px 13px;
+    background: #f4f4f4;
+}
+a.pagination{
+    
+    padding: 8px 13px;
+    background: #f4f4f4;
+}
